@@ -7,7 +7,7 @@ Nome = input("")
 if nome == "":
     name = "Ericlis Gonçalves"
     country = "Brazil"
-    City = "São Paulo - SP"
+    city = "São Paulo - SP"
     stack = "HTML, CSS, JavaScript, Php, MySQL, Java, C, Python"
     interesed_in = "Bootstrap, Angular, Vue.js, IA, "
 else:
