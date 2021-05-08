@@ -6,7 +6,8 @@
 Nome = input("")
 if nome == "":
     name = "Ericlis Gonçalves"
-    country = "São Paulo - SP"
+    country = "Brazil"
+    City = "São Paulo - SP"
     stack = "HTML, CSS, JavaScript, Php, MySQL, Java, C, Python"
     interesed_in = "Bootstrap, Angular, Vue.js, IA, "
 else:
@@ -30,7 +31,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python and English
 - 📫 How to reach me:
  <a href="https://www.linkedin.com/in/ericlis-gon%C3%A7alves-7503a41b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/erickgoncalvs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-
-- ![WhatsApp_ericlis](https://user-images.githubusercontent.com/78988898/117523763-6b94d700-af90-11eb-817d-7abd37662d1a.jpeg)
+ <a href="https://www.instagram.com/erickgoncalvs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+![WhatsApp_ericlis](https://user-images.githubusercontent.com/78988898/117524211-f080f000-af92-11eb-9b02-5e64d12d4399.jpeg)
 
 -->
